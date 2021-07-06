@@ -1,0 +1,12 @@
+.default_btn{
+  background-color: #8998b6;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 3px;
+}
+
+.nabar_list li{
+  list-style: none;
+  display: inline-block;
+  margin-right: 10px;
+}
